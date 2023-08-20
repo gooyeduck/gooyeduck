@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning **Laravel, Wordpres**
 
 - 📫 How to reach me **satyajit.talukder@yahoo.com**
+  
+- 📫 Currently working at [Invizo](https://invizo.io)
 
 
 #
