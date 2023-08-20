@@ -54,4 +54,10 @@
 
 <img src="https://raw.githubusercontent.com/gooyeduck/gooyeduck/output/snake.svg" alt="Snake animation" />
 
+# CodewarsBadge
+My Codewars Badge:
+
+![image](https://www.codewars.com/users/gooyeduck/badges/large)
+
 ###
+
