@@ -1,6 +1,17 @@
+
 <h3 align="center">👋!  Hey there! I'm Satyajit, a dedicated WordPress plugin developer. I specialize in creating custom WordPress plugins to enhance functionality, streamline workflows, and bring unique features to your website. Let's make your WordPress site even more powerful!</h3>
 
 ###
+
+
+- 🔭 I’m currently working on [StoreGrowth Sales Booster](https://wordpress.org/plugins/storegrowth-sales-booster/)
+
+- 🌱 I’m currently learning **Laravel, Wordpres**
+
+- 📫 How to reach me **satyajit.talukder@yahoo.com**
+
+
+#
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gooyeduck&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -9,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -51,8 +62,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/gooyeduck/gooyeduck/output/snake.svg" alt="Snake animation" />
 
 # CodewarsBadge
 My Codewars Badge:
