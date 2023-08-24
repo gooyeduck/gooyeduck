@@ -58,8 +58,10 @@
 ###
 
 <br clear="both">
+<div align='center'> 
+  <a href="https://app.daily.dev/gooyeduck"><img src="https://api.daily.dev/devcards/671f53773eed49558cb932dcb20c6331.png?r=0uy" width="400" alt="Satyajit Talukder's Dev Card"/></a>
+</div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
